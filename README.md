@@ -1,6 +1,7 @@
 # Life Expectancy and Economic Indicators Analysis
 
 #### Project Overview
+This project was developed as part of the **Monitoring & Evaluation Fundamentals: Measuring Outcomes & Impact** course within the Social Innovation Diploma.
 
 This project aims to analyze the relationship between **income**, **health expenditure**, **inflation**, and **life expectancy** across multiple countries. The dataset includes various economic and health-related indicators from different countries, and the analysis seeks to understand how these factors correlate with life expectancy. 
 
